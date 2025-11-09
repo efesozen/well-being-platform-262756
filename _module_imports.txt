@@ -1,0 +1,13 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { WellbeingplansModule } from './modules/wellbeingplans/wellbeingplans.module';
+import { ActivitysModule } from './modules/activities/activities.module';
+import { ContentsModule } from './modules/contents/contents.module';
+import { UserdatasModule } from './modules/userdatas/userdatas.module';
+import { SubscriptionsModule } from './modules/subscriptions/subscriptions.module';
+
+// Add to @Module imports array:
+// WellbeingplansModule,
+// ActivitysModule,
+// ContentsModule,
+// UserdatasModule,
+// SubscriptionsModule
